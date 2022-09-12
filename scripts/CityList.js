@@ -15,6 +15,6 @@ export const CityList = () => {
     return citiesHTML
 }
 
-export let currentWalker = () => {
+//export let currentWalker = () => {
 
-}
+//}
